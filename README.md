@@ -24,9 +24,6 @@ Skills: UX/UI / Prototype/ Responsive / Design System / Web Design / Mobile Desi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalaStalin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/LaLaStalin/tam-rai-dees">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LalaStalin&repo=tam-rai-dees" />
 </a>
