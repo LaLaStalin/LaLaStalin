@@ -7,6 +7,7 @@ I focused on creating meaningful experiences through design.
 About />
 
 class Nattida Jangpipatnavakij {
+
 ··// I can, because I did.
 ··// My vast variety of skills is continuously expanding.
 ··constructor() {
