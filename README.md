@@ -1,12 +1,38 @@
 ### YoYo 👋, Call me Lala
-#### I am a UX/UI designer
-I'm ready to challenge, learn new things, and listen to all opinions. I am ready to correct my mistakes and admit them, It makes me want to be better. When I saw my work getting better, I was so proud and I wanted to do my best.
+#### I am a Front-End
+I acquired coding and design skills including responsive web design from my projects and Hackathon experiences. With curiosity and observation, I specialized on React, Next.js.
 
 I focused on creating meaningful experiences through design.
 
+About />
+
+class Nattida Jangpipatnavakij {
+··// I can, because I did.
+··// My vast variety of skills is continuously expanding.
+··constructor() {
+····this.name = 'Nattida Jangpipatnavakij'
+····this.dayOfBirth = 10/11/2000
+····this.email = 'nattida.jangpipat@gmail.com'
+···}
+··workExperience() {
+····return [
+······{ '06/2023-Present' : 'Front-End Developer at asteroid group (Thailand) Co., Ltd.' }
+······{ '01/2023-05/2023' :'UX/UI Designer at G-able ( Blend Data Co., Ltd. )' }
+······{ '08/2021-11/2022' : 'Project Coordinator at Thai Programmer Association' }
+····]
+··}
+··education() {
+····return[
+······{ '2019-2023' : 'Bangkok University - Computer Science , GPA : 3.91'}
+····]
+··}
+··skills() {
+····return [
+'HTML/CSS/JS', 'TypeScript', 'ReactJS', 'NextJS', 'Node.js', 'Bootstrap/Tailwind', 'Github/GitFlow', 'npm/yarn/pnpm', 'Python', 'PHP', 'C#', 'MySQL/MongoDB', 'Database Systems', 'Diagrams.net', 'Figma', 'Miro','Photoshop', 'Illustrator', 'VScode', 'Motion design', 'UX/UI', 'Design System', 'Bootstrap', 'Material UI'
+··}
+}
 
 
-Skills: UX/UI / Prototype/ Responsive / Design System / Web Design / Mobile Design / Figma
 
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning UX/UI design 
