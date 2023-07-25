@@ -4,6 +4,7 @@ I acquired coding and design skills including responsive web design from my proj
 
 I focused on creating meaningful experiences through design.
 
+
 About />
 
 class Nattida Jangpipatnavakij {
