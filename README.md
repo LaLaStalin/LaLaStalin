@@ -28,19 +28,32 @@ class Nattida Jangpipatnavakij {
 ····return [
 
 ······{ '06/2023-Present' : 'Front-End Developer at asteroid group (Thailand) Co., Ltd.' }
+
 ······{ '01/2023-05/2023' :'UX/UI Designer at G-able ( Blend Data Co., Ltd. )' }
+
 ······{ '08/2021-11/2022' : 'Project Coordinator at Thai Programmer Association' }
+
 ····]
+
 ··}
+
 ··education() {
+
 ····return[
+
 ······{ '2019-2023' : 'Bangkok University - Computer Science , GPA : 3.91'}
+
 ····]
+
 ··}
+
 ··skills() {
+
 ····return [
 'HTML/CSS/JS', 'TypeScript', 'ReactJS', 'NextJS', 'Node.js', 'Bootstrap/Tailwind', 'Github/GitFlow', 'npm/yarn/pnpm', 'Python', 'PHP', 'C#', 'MySQL/MongoDB', 'Database Systems', 'Diagrams.net', 'Figma', 'Miro','Photoshop', 'Illustrator', 'VScode', 'Motion design', 'UX/UI', 'Design System', 'Bootstrap', 'Material UI'
+
 ··}
+
 }
 
 
