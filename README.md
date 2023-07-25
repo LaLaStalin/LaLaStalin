@@ -7,15 +7,25 @@ I focused on creating meaningful experiences through design.
 About />
 
 class Nattida Jangpipatnavakij {
+
 ··// I can, because I did.
+
 ··// My vast variety of skills is continuously expanding.
+
 ··constructor() {
+
 ····this.name = 'Nattida Jangpipatnavakij'
+
 ····this.dayOfBirth = 10/11/2000
+
 ····this.email = 'nattida.jangpipat@gmail.com'
+
 ···}
+
 ··workExperience() {
+
 ····return [
+
 ······{ '06/2023-Present' : 'Front-End Developer at asteroid group (Thailand) Co., Ltd.' }
 ······{ '01/2023-05/2023' :'UX/UI Designer at G-able ( Blend Data Co., Ltd. )' }
 ······{ '08/2021-11/2022' : 'Project Coordinator at Thai Programmer Association' }
