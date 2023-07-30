@@ -1,4 +1,9 @@
-<h1 align='center'><samp><strong> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I am LaLa</strong></samp></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+LaLA....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <p align='center'>Frontend developer | React developer | UXUI developer | Web developer</p>
 
 <p align='left'> 📫 I acquired coding and design skills including responsive web design from my projects and Hackathon experiences. With curiosity and observation, I specialized on React, Next.js.</p>
