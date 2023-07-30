@@ -1,7 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-NattidaJang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/nattidajang)
-[![Gmail Badge](https://img.shields.io/badge/-nattida.jangpipat@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](nattida.jangpipat@gmail.com)
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+LaLa....;Nice+to+meet+you!&center=true&size=30">
@@ -13,6 +9,9 @@
 <p align='left'> 📫 I acquired coding and design skills including responsive web design from my projects and Hackathon experiences. With curiosity and observation, I specialized on React, Next.js.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+[![Linkedin Badge](https://img.shields.io/badge/-NattidaJang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/nattidajang)
+[![Gmail Badge](https://img.shields.io/badge/-nattida.jangpipat@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](nattida.jangpipat@gmail.com)
 
 💻 **Languages and Tools:** 🛠️<br>
 
