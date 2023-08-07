@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align='center'>Frontend developer | React developer | UXUI developer | Web developer</p>
+<p align='center'>Frontend developer | Fullstack developer | React developer | UXUI developer | Web developer</p>
 
 <p align='left'> 📫 I acquired coding and design skills including responsive web design from my projects and Hackathon experiences. With curiosity and observation, I specialized on React, Next.js.</p>
 
